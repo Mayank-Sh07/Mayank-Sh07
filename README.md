@@ -6,11 +6,11 @@ I'm a Web Developer and Social Entrepreneur at Enactus, with a deep interest in 
 
 **About me**
 
-- 💼 Full-Stack Engineer (intern) at [Codedamn](https://codedamn.com/)
+- 💼 Full-Stack Engineer (L3) at [Codedamn](https://codedamn.com/)
 
 - 👨‍🎓 Pursuing my bachelors degree in Computer Science & Engineering at [VIT](https://chennai.vit.ac.in/)
 
-- ❤️ I love coding with TypeScript, and building innovative web apps
+- ❤️ I love coding in TypeScript and building innovative web applications
 
 - 🚀 Do check out my portfolio webpage [mayanksh.codes](https://mayanksh.codes/)
 

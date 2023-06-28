@@ -28,10 +28,6 @@ I'm a Web Developer and Social Entrepreneur at Enactus, with a deep interest in 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code> 
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sh07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mayank's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sh07&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 #### Top Repositories
 
 

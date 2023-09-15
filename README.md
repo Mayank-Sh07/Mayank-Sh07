@@ -12,7 +12,7 @@ I'm a Web Developer and Social Entrepreneur at Enactus, with a deep interest in 
 
 - ❤️ I love coding in TypeScript and building innovative web applications
 
-- 🚀 Do check out my portfolio webpage [mayanksh.codes](https://mayanksh.codes/)
+- 🚀 Do check out my portfolio webpage [mayanksh.codes](https://mash07.vercel.app/)
 
 
 

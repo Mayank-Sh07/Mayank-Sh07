@@ -2,17 +2,17 @@
 
 # Hey! I'm Mayank 👋
 
-I'm a Web Developer and Social Entrepreneur at Enactus, with a deep interest in technology and design. I'm from India. 💕
+I'm a Fullstack Web Developer with a deep interest in progressive technology and design. I'm from India. 🇮🇳
 
 **About me**
 
 - 💼 Full-Stack Engineer (L3) at [Codedamn](https://codedamn.com/)
 
-- 👨‍🎓 Pursuing my bachelors degree in Computer Science & Engineering at [VIT](https://chennai.vit.ac.in/)
+- 👨‍🎓 Bachelors degree in Computer Science & Engineering from [VIT](https://chennai.vit.ac.in/)
 
-- ❤️ I love coding in TypeScript and building innovative web applications
+- ❤️ I love developing innovative web applications and shipping coll features.
 
-- 🚀 Do check out my portfolio webpage [mayanksh.codes](https://mash07.vercel.app/)
+- 🚀 Do check out my portfolio webpage [mash07](https://mash07.vercel.app/)
 
 
 
